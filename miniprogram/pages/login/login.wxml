@@ -1,0 +1,4 @@
+<!--miniprogram/pages/login/login.wxml-->
+<view class="loginImage">
+	<image mode="aspectFit" src="../../images/logo.png"></image>
+</view>
